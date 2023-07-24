@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/sithanga rashmika" target="blank"><img src="https://img.shields.io/twitter/follow/sithanga rashmika?logo=twitter&style=for-the-badge" alt="sithanga rashmika" /></a> </p>
 
-- 🔭 I’m currently working on [Techno Solutions pvt ltd website](www.technospl.com)
 
 - 🌱 I’m currently learning **at Sri Lanka Institute of Information Technology as a third year Undergraduate**
 
